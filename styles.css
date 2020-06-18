@@ -1,0 +1,38 @@
+#card_container{
+  border: 1px solid black;
+  padding: 10px;
+  width: 400px;
+  background-color: lightblue;
+}
+
+#info_container{
+  border: 1px solid black;
+  padding: 10px ;
+  background-color: white;
+}
+
+#fact{
+  font-style: italic;
+}
+.info{
+  font-weight: bold;
+}
+
+#card_container img {
+  width: 300px;
+  display: block;
+  margin: 10px auto;
+}
+
+li{
+  list-style-type: none;
+}
+
+ul {
+  padding-left : 0pt;
+}
+
+#wikp{
+  color: red;
+  font-size: 9pt ;
+}
